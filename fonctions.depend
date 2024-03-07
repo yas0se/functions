@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709810136 source:c:\users\dell\documents\c\fonctions\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
