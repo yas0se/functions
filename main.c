@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <ctype.h>
 
 
 void fonction1(){
@@ -115,7 +114,7 @@ int main()
 /*  float ht,tva;       //pour TTC
     printf("entrer Ht: \n");        //pour TTC
     scanf("%f", &ht);       //pour TTC
-    printf("Entrer La Taxe sur la Valeur Ajoutée %100(TVA): \n");       //pour TTC
+    printf("Entrer La Taxe sur la Valeur AjoutÃ©e %100(TVA): \n");       //pour TTC
     scanf("%f", &tva);      //pour TTC
     fonction3(ht, tva);
     */
